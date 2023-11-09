@@ -1,2 +1,2 @@
-const API_URL = "http://localhost:4017"
+const API_URL = "https://backend-an5d.onrender.com"
 export default API_URL;
