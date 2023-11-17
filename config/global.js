@@ -1,2 +1,2 @@
-const API_URL = "https://backend-an5d.onrender.com"
+const API_URL = "https://webnote-01xc.onrender.com"
 export default API_URL;
