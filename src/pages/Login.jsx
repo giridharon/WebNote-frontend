@@ -30,7 +30,7 @@ import { useNavigate } from "react-router-dom";
             alert("Verify email")
         }else if(response.status){
             localStorage.setItem("userInfo",JSON.stringify(response.data))
-            navigate("/home")
+            navigate("/note")
         }
     }
     return (
